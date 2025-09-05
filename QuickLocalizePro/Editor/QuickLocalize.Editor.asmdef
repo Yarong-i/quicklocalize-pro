@@ -1,0 +1,7 @@
+{
+  "name": "Yarong.QuickLocalize.Editor",
+  "references": [ "Yarong.QuickLocalize" ],
+  "includePlatforms": [ "Editor" ],
+  "excludePlatforms": [],
+  "autoReferenced": true
+}
