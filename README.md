@@ -2,7 +2,7 @@
 
 **TextMeshPro** 전용 **CSV 기반 로컬라이즈 툴**. 샘플 임포트 → DB 할당 → **Play** — 몇 분 만에 언어 전환.
 
-![Hero](media/qlp_cover_1950x1300.png)
+![Hero](qlp_cover_1950x1300.png)
 
 **Asset Store:** (승인 후 링크 추가)  
 **문서:** https://yarong-i.github.io/quicklocalize-docs  
