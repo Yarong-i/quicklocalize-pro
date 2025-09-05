@@ -1,0 +1,9 @@
+name: Feature request
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: need
+    attributes: { label: Problem to solve }
+  - type: textarea
+    id: proposal
+    attributes: { label: Proposed solution / API }
